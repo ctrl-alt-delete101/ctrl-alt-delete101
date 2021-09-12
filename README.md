@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ctrl-alt-delete101
-- 👀 I’m interested in Algorithms and AI
+- 👀 I’m interested in Algorithms and code
 - 📫 How to reach me amudda73@gmail.com
 
 <!---
